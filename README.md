@@ -14,17 +14,17 @@ This repository contains a simple implementation of the classic Tic Tac Toe game
 1. Clone this repository or download the source code as a ZIP file and extract it.
 2. Install the required Python packages using pip:
 
-    ```
+```
     pip install -r requirements.txt
-    ```
+```
 
 ## Running the Game
 
 To start the game, run the following command:
 
-    ```
+```
     python main.py
-    ```
+```
 
 A window with the game board will appear. Two players can now play Tic Tac Toe by taking turns clicking on the cells to place their symbols.
 
@@ -36,9 +36,9 @@ For detailed gameplay instructions, refer to the [instructions leaflet](INSTRUCT
 
 Unit tests are provided for the `Board`, `Button`, and `Game` classes. To run the tests, use the following command:
 
-    ```
+```
     pytest
-    ```
+```
 
 ## Contributing
 
